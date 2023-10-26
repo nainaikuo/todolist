@@ -1,2 +1,2 @@
-<h1>TodoList</h1>
-<a herf="https://nainaikuo.github.io/todolist/">請點此觀看</a>
+<h1>TodoList Pratice</h1>
+<a href="https://nainaikuo.github.io/todolist/" target="_blank">請點此觀看</a>
